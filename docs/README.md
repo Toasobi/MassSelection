@@ -1,5 +1,5 @@
 # 项目说明
-- 该项目是一个基于springboot和redis开发的点评系统
+- 该项目是一个基于springboot和redis开发的系统
 
 # 环境说明
 
